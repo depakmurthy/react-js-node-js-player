@@ -48,7 +48,7 @@ function SideBar({ image, collapsed, rtl, toggled, handleToggleSidebar }) {
           }}
         >
           <a
-            href="https://github.com/"
+            href="https://github.com/depakmurthy/react-js-node-js-player"
             target="_blank"
             className="sidebar-btn"
             rel="noopener noreferrer"
